@@ -1,0 +1,73 @@
+{
+  "sort": {
+    "Name": "none",
+    "Age": "none",
+    "City": "none"
+  },
+  "users": {
+    "past": [
+      {
+        "id": 1,
+        "Name": "John",
+        "Age": "51",
+        "City": "Albany"
+      },
+      {
+        "id": 2,
+        "Name": "Mike",
+        "Age": "73",
+        "City": "Sidney"
+      },
+      {
+        "id": 3,
+        "Name": "Mateo",
+        "Age": "20",
+        "City": "Phoenix"
+      },
+      {
+        "id": 4,
+        "Name": "Emma",
+        "Age": "35",
+        "City": "Hollywood"
+      },
+      {
+        "id": 5,
+        "Name": "Lucas",
+        "Age": "48",
+        "City": "Columbia"
+      },
+      {
+        "id": 6,
+        "Name": "Sofia",
+        "Age": "65",
+        "City": "Aurora"
+      },
+      {
+        "id": 7,
+        "Name": "Zoe",
+        "Age": "23",
+        "City": "New Britain"
+      },
+      {
+        "id": 8,
+        "Name": "Christopher",
+        "Age": "27",
+        "City": "Stamford"
+      },
+      {
+        "id": 9,
+        "Name": "Oliver",
+        "Age": "19",
+        "City": "Miami"
+      },
+      {
+        "id": 10,
+        "Name": "William",
+        "Age": "43",
+        "City": "Frankfort"
+      }
+    ],
+    "present": null,
+    "future": []
+  }
+}
